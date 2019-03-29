@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Webpage</title>
+</head>
+<body style="background-image:url('background.jpg');">
+
+<h1 style="font-family:calibri"; align="center">Italian recipes</h1>
+
+<h2 style="font-family:calibri"; align="center">Carbonara</h2>
+<img src="https://www.procook.co.uk/images/library/images/pasta_bacon_and_eggs_005.jpg" alt="Carbonara Pasta" width="250" height="200"; style="float: right;">
+
+<p style="font-family:courier;"><b>Individual meal</b><br>
+In one pot boil water and add the pasta for 2 minutes (salt); <br> In another wok/pan add oil and cook 50g of bacon; <br> Then add onion, garlic and chilli (optional);<br> Add two laddels of cream (60ml each); <br> Add salt and pepper; <br> Great parmesan cheese on top; <br> Turn off the fire and add the egg yolk; <br> Mix until gets the gold colour; <br> Add pasta in the sauce plus parsley; <br> Mix everything and plate in a bowl.
+</p>
+<br>
+
+<h2 style="font-family:calibri"; align="center">Pesto Basilico</h2>
+<img src="https://www.procook.co.uk/images/library/images/pasta_bacon_and_eggs_005.jpg" alt="Carbonara Pasta" width="250" height="200"; style="float: right;"> 
+
+<p style="font-family:courier;"> In one pot boil water and add the pasta for 2 minutes (salt); <br> In another wok/pan add oil and cook 50g of bacon; <br> Then add onion, garlic and chilli (optional);<br> Add two laddels of cream (60ml each); <br> Add salt and pepper; <br> Great parmesan cheese on top; <br> Turn off the fire and add the egg yolk; <br> Mix until gets the gold colour; <br> Add pasta in the sauce plus parsley; <br> Mix everything and plate in a bowl.
+</p>
+
+
+
+</body>
+</html>
